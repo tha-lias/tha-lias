@@ -1,12 +1,14 @@
 ## Olá, eu sou a Thalia! Seja bem vindo(a) ao meu perfil! 👋🏻😊 
+ <img align="center" alt="Node"  src="https://media.licdn.com/dms/image/D4D16AQHNS9UUM7C08g/profile-displaybackgroundimage-shrink_350_1400/0/1701531187876?e=1707350400&v=beta&t=Hlq-ptPbUk4fuEmYP3plj2ILW_mz8eJtRETw0mM0RG0">
 
-<div style="display: inline_block;">
+<div style="display: flex;">
 <a href="https://github.com/tha-lias/github-readme-stats">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&theme=dracula&card_width=180" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&theme=dracula&card_width=20" />
 </a>
 <a href="https://github.com/tha-lias/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tha-lias&layout=compact&langs_count=8&card_width=180&show_icons=true&theme=dracula" />
 </a>
+
 </div><br>
 
 ## Tecnologias que conheço e/ou utilizo:
