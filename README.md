@@ -2,7 +2,12 @@
  <img align="center" alt="Node"  src="https://media.licdn.com/dms/image/D4D16AQHNS9UUM7C08g/profile-displaybackgroundimage-shrink_350_1400/0/1701531187876?e=1707350400&v=beta&t=Hlq-ptPbUk4fuEmYP3plj2ILW_mz8eJtRETw0mM0RG0">
 
 <br>
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="
+    display: flex;
+    width: 100%;
+    padding: 1em;
+    gap: 1em;
+">
   <a href="https://github.com/tha-lias/github-readme-stats" style="flex: 1;">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&theme=dracula&card_width=20" />
   </a>
