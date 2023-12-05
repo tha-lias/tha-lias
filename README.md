@@ -14,7 +14,7 @@
 
 <br>
 
-## Tecnologias que conheço e/ou utilizo ⚙️:
+## Tecnologias que utilizo ⚙️:
 
 #### #️⃣ Front-end:
 
