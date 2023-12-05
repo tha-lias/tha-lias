@@ -1,4 +1,4 @@
-## Olá, eu sou a Thalia! Seja bem vindo(a) ao meu perfil! 👋🏻😊 
+## Oiie, sou a Thalia! Seja bem vindo(a) ao meu perfil! 👋🏻😊 
  <img align="center" alt="Node"  src="https://media.licdn.com/dms/image/D4D16AQHNS9UUM7C08g/profile-displaybackgroundimage-shrink_350_1400/0/1701531187876?e=1707350400&v=beta&t=Hlq-ptPbUk4fuEmYP3plj2ILW_mz8eJtRETw0mM0RG0">
 
 <br>
