@@ -5,12 +5,13 @@
 
 <div align="center" >
   <a href="https://github.com/tha-lias" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/tha-lia" style="flex: 1;">
-    <img height="180em" align=right src="https://github-readme-stats.vercel.app/api/top-langs?username=tha-lias&layout=compact&langs_count=16&card_width=180&show_icons=true&theme=tokyonight" />
+    <img height="170em" align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=tha-lias&layout=compact&langs_count=16&card_width=180&show_icons=true&theme=tokyonight" />
   </a>
 </div>
+
 
 <br>
 
