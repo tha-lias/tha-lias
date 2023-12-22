@@ -2,13 +2,17 @@
  <img align="center" alt="Node"  src="https://media.licdn.com/dms/image/D4D16AQHNS9UUM7C08g/profile-displaybackgroundimage-shrink_350_1400/0/1701531187876?e=1707350400&v=beta&t=Hlq-ptPbUk4fuEmYP3plj2ILW_mz8eJtRETw0mM0RG0">
 
 <br>
-
 <div align="center" >
-  <a href="https://github.com/tha-lias" style="flex: 1;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&include_all_commits=false&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=radical" />
+</a>
+
+
+</div>
 
 <br>
 
