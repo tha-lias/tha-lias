@@ -1,11 +1,9 @@
 ## Oiie, sou a Thalia! Seja bem vindo(a) ao meu perfil! 👋🏻😊 
- <img align="center" alt="Node"  src="https://media.licdn.com/dms/image/D4D16AQHNS9UUM7C08g/profile-displaybackgroundimage-shrink_350_1400/0/1701531187876?e=1707350400&v=beta&t=Hlq-ptPbUk4fuEmYP3plj2ILW_mz8eJtRETw0mM0RG0">
-
 <br>
 <div align="center" >
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&include_all_commits=false&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&theme=radical" />
@@ -25,8 +23,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<!--   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+ 
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=vue">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=vuetify">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=nuxtjs">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
 </div>
 
 #### #️⃣ Back-end:
