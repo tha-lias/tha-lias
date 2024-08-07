@@ -1,10 +1,6 @@
 ## Oiie, sou a Thalia! Seja bem-vindo(a) ao meu perfil! 👋🏻😊 
 
 <div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tha-lias&show_icons=true&include_all_commits=false&count_private=true&theme=radical" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tha-lias&layout=compact&theme=radical" />
 </a>
