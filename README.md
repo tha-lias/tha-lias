@@ -19,6 +19,7 @@
   <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Vue" height="30" width="40" src="https://skillicons.dev/icons?i=vue">
+  <img align="center" alt="Vue" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress">
   <img align="center" alt="Vuetify" height="30" width="40" src="https://skillicons.dev/icons?i=vuetify">
   <img align="center" alt="Nuxt" height="30" width="40" src="https://skillicons.dev/icons?i=nuxtjs">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
