@@ -18,7 +18,9 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://skillicons.dev/icons?i=vue">
+  <img align="center" alt="Vue" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="React" height="30" width="40" src="https://skillicons.dev/icons?i=vue">
+  <img align="center" alt="Next" height="30" width="40" src="https://skillicons.dev/icons?i=next">
   <img align="center" alt="Angular" height="30" width="40" src="https://skillicons.dev/icons?i=angular">
   <img align="center" alt="Wordpress" height="30" width="40" src="https://skillicons.dev/icons?i=wordpress">
   <img align="center" alt="Vuetify" height="30" width="40" src="https://skillicons.dev/icons?i=vuetify">
