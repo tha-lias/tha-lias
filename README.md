@@ -1,13 +1,8 @@
 ## Oiie, sou a Thalia! Seja bem-vindo(a) ao meu perfil! 👋🏻😊 
 
 <div align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tha-lias&layout=compact&theme=radical" />
-</a>
-
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBia2FmZnRnbjBtb3hqeWR3bXh2cnB0Y3o4ZHNueTVjMDJ1NGx0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400px"/>
 </div>
-
-<br>
 
 ## Tecnologias que utilizo ⚙️:
 
