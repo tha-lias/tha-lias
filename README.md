@@ -50,7 +50,7 @@ Foco em componentização, arquitetura escalável e experiência do usuário.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tha-silva/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tha-lias/)
 [![Email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsilvacorp@gmail.com)
 
 </div>
