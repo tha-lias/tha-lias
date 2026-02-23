@@ -15,12 +15,13 @@
 Front-end developer apaixonada por criar interfaces modernas, performáticas e bem estruturadas.  
 Foco em componentização, arquitetura escalável e experiência do usuário.
 
-Atualmente evoluindo em:
-- ⚡ Performance
-- 🧠 Arquitetura Front-End
-- 🤖 Integração com IA
-- 🐳 Docker
+#### Atualmente evoluindo em
 
+- ⚡ Performance e otimização de aplicações Front-End
+- 🧱 Arquitetura escalável (multi-tenant e componentização avançada)
+- 🐳 Dockertização e ambientes isolados para desenvolvimento
+- 🤖 IA aplicada ao desenvolvimento (automação, geração e otimização de código)
+- 🧠 Desenvolvimento de aplicações com IA integrada
 ---
 
 ## ✦ Stack
