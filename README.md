@@ -14,18 +14,21 @@ _música, código e café_ ☕
 
 ## ✦ About Me
 
-Front-end developer apaixonada por criar interfaces modernas, performáticas e bem estruturadas.  
-Foco em componentização, arquitetura escalável e experiência do usuário.
+Desenvolvedora Front-End com foco em arquitetura escalável e organização de aplicações modernas.
 
-#### Atualmente evoluindo em
+Atuo estruturando projetos preparados para crescimento, aplicando boas práticas de componentização, padronização de código e decisões orientadas à performance.
+
+Tenho interesse especial em arquiteturas multi-tenant, ambientes padronizados com Docker e integração de inteligência artificial tanto no fluxo de desenvolvimento quanto na construção de aplicações com IA integrada.
+
+#### ✦ Foco Atual
 
 - ⚡ Performance e otimização de aplicações Front-End
-- 🧱 Arquitetura escalável (multi-tenant e componentização avançada)
-- 🐳 Dockertização e ambientes isolados para desenvolvimento
+- 🧱 Arquiteturas multi-tenant e organização escalável de projetos
+- 🐳 Containerização e padronização de ambientes com Docker
 - 🤖 IA aplicada ao desenvolvimento (automação, geração e otimização de código)
 - 🧠 Desenvolvimento de aplicações com IA integrada
+  
 ---
-
 ## ✦ Stack
 
 <div align="center">
