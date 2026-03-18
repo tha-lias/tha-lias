@@ -46,8 +46,10 @@ Tenho interesse especial em arquiteturas multi-tenant, ambientes padronizados co
 ## ✦ Activity
 
 <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=tha-lias&theme=tokyonight&hide_border=true"/>
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tha-lias&theme=blueberry&hide_border=true&border_radius=5.3&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
+
 
 ---
 
